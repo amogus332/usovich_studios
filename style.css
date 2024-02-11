@@ -1,0 +1,61 @@
+*{
+    box-sizing: border-box;
+    padding:0px;
+    margin:0px;
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+.background-header{
+    background-color:#D9D9D9;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header h1{
+    color: aliceblue;
+}
+
+.background-s1{
+    background: url(https://kartinki.pics/pics/uploads/posts/2022-08/1660177468_1-kartinkin-net-p-fon-novostei-pervogo-kanala-krasivo-1.jpg) center/cover no-repeat ;
+    height: 70vh;
+    text-align: center;
+}
+.background-s1 div{
+    text-align: center;
+}
+.background-s1 h1{
+   
+    color: aliceblue;
+}
+.background-s1 p{
+   
+    color: aliceblue;
+}
+
+.bg2 {
+    text-align: center;
+}
+
+.bg2 p {
+    margin: 50px;
+}
+.bg2 img{
+    width: 100%;
+}
+.bg2 button{
+    
+}
+button {
+    background-color:aqua;
+    width:200px;
+    height:100px;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+}
